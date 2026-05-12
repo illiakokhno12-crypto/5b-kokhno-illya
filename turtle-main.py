@@ -1,3 +1,14 @@
 from turtle import  *
+delay(400)
 
-forward (50)
+color("black","red")
+forwatd(50)
+begin_fill()
+right(120)
+forward(50)
+right(120)
+forward(50)
+end_fill()
+
+done()
+
